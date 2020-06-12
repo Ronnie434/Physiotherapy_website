@@ -2181,6 +2181,9 @@ ul.widget-recent-post {
     padding-left: 0px;
     list-style: none;
   }
+  #time{
+    text-align: center;
+  }
 }
 @media screen and (max-width: 320px) {
   .navigation {
